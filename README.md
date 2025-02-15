@@ -21,3 +21,21 @@ Sets up Google Photos API if not configured
 📖 Background
 
 Google's decision to remove Photos integration from Drive left many users struggling to manage their cloud-stored images efficiently. Instead of relying on the slow manual download process, this script provides an automated solution that keeps your local storage in sync with your cloud photos.
+
+⚙️ Getting Started
+
+1️⃣ Download & Install rclone (if not already installed)
+
+2️⃣ Run the script and authenticate Google Photos
+
+3️⃣ Select Year & Month via the UI
+
+4️⃣ Sit back and let the script do the work!
+
+🛠️ Requirements
+
+Windows 10/11 (or Synology NAS with SSH)
+
+rclone configured with Google Photos
+
+PowerShell 7+
